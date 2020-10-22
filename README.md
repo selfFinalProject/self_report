@@ -15,20 +15,20 @@
 ## 구현
 - CQRS
 - 폴리글랏퍼시스턴스
-    Member : H2
+    - Member : H2
       		<dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
             <scope>runtime</scope>
           </dependency>
-    Mileage : HSQLDB
+    - Mileage : HSQLDB
           <dependency>
             <groupId>org.hsqldb</groupId>
             <artifactId>hsqldb</artifactId>
             <version>2.4.0</version>
             <scope>runtime</scope>
           </dependency>
-    Report : H2
+    - Report : H2
       		<dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
