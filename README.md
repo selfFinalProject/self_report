@@ -36,7 +36,7 @@
           </dependency>
 
 - 폴리글랏 프로그래밍
-![폴리글랏 프로그래밍](https://user-images.githubusercontent.com/67616972/96808282-7f914500-1453-11eb-8a5b-11d5a5ccd54a.JPG)
+* ![폴리글랏 프로그래밍](https://user-images.githubusercontent.com/67616972/96808282-7f914500-1453-11eb-8a5b-11d5a5ccd54a.JPG)
 
 ## 동기식 호출 처리
 
@@ -155,32 +155,32 @@ http GET http://localhost:8083/reports
 
 ## CI/CD 설정
 
-* Repository 구성
+# Repository 구성
 ![Repository 구성](https://user-images.githubusercontent.com/67616972/96808291-81f39f00-1453-11eb-9e33-6c)ab98f2bba9.JPG
 
-* EKS 클러스터 구성 
+# EKS 클러스터 구성 
 ![EKS 클러스터 구성](https://user-images.githubusercontent.com/67616972/96808287-80c27200-1453-11eb-818b-7acb9c29e7ff.JPG)
 
-* ECR Repository 구성 (서비스 별 )
+# ECR Repository 구성 (서비스 별 )
 ![ECR Repository 구성](https://user-images.githubusercontent.com/67616972/96808284-8029db80-1453-11eb-9c38-b7db3ea49067.JPG)
 
 
 
 ## 클라우드 환경 서비스 테스트 (gateway 외부 URL)
 
-* 멤버십 가입
+# 멤버십 가입
 ![멤버십가입](https://user-images.githubusercontent.com/67616972/96808272-7dc78180-1453-11eb-8bc5-e786becd0c60.JPG)
 
-* 멤버십 가입 후 포인트 부여
+# 멤버십 가입 후 포인트 부여
 ![멤버십가입2](https://user-images.githubusercontent.com/67616972/96808276-7dc78180-1453-11eb-8147-ad3a5ded5f26.JPG)
 
-* 부여된 포인트 확인
+# 부여된 포인트 확인
 ![포인트 부여 확인](https://user-images.githubusercontent.com/67616972/96808281-7f914500-1453-11eb-8d75-53adf4dd47fd.JPG)
 
-* 멤버십 탈퇴
+# 멤버십 탈퇴
 ![멤버십탈퇴](https://user-images.githubusercontent.com/67616972/96808280-7ef8ae80-1453-11eb-9437-a95bf01aeaf8.JPG)
 
-* 멤버십 내역 조회
+# 멤버십 내역 조회
 ![멤버십가입내역](https://user-images.githubusercontent.com/67616972/96808278-7e601800-1453-11eb-8d2f-b7bcaae11d1c.JPG)
 
 ## Configmap , 설정의 외부 주입을 통한 유연성을 제공
