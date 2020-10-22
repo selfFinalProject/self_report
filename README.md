@@ -36,6 +36,7 @@
           </dependency>
 
 - 폴리글랏 프로그래밍
+![폴리글랏 프로그래밍](https://user-images.githubusercontent.com/67616972/96808282-7f914500-1453-11eb-8a5b-11d5a5ccd54a.JPG)
 
 ## 동기식 호출 처리
 
