@@ -156,7 +156,7 @@ http GET http://localhost:8083/reports
 ## CI/CD 설정
 
 # Repository 구성
-![Repository 구성](https://user-images.githubusercontent.com/67616972/96808291-81f39f00-1453-11eb-9e33-6c)ab98f2bba9.JPG
+![Repository 구성](https://user-images.githubusercontent.com/67616972/96808813-8cfaff00-1454-11eb-8013-47d8fcd05c99.JPG)
 
 # EKS 클러스터 구성 
 ![EKS 클러스터 구성](https://user-images.githubusercontent.com/67616972/96808287-80c27200-1453-11eb-818b-7acb9c29e7ff.JPG)
